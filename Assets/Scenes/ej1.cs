@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 /*1.Crea un programa que permita ingresar por Inspector dos valores enteros y responda si son iguales o no lo son.*/
-public class NewBehaviourScript : MonoBehaviour
+public class ej1 : MonoBehaviour
 {
     public int num1;
     public int num2;
